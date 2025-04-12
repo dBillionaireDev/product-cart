@@ -335,13 +335,11 @@ body.show-confirmed {
   left: -33px;
   margin-left: 0;
 }
-
-
 #item-ordered{
   display: flex;
   padding: 0;
   margin: -25px auto -25px;
-
+}
 .remove-btn:hover {
   background-color: #cc0000;
   cursor: pointer;
