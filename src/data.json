@@ -38,10 +38,10 @@
     {
         "id": 3,
         "image": {
-            "thumbnail": "/src/assets/images/image-tiramisu-thumbnail.jpg",
+            "thumbnail": "/images/image-tiramisu-thumbnail.jpg",
             "mobile": "/images/image-tiramisu-mobile.jpg",
             "tablet": "/images/image-tiramisu-tablet.jpg",
-            "desktop": "/src/assets/images/image-tiramisu-desktop.jpg"
+            "desktop": "/images/image-tiramisu-desktop.jpg"
         },
         "name": "Classic Tiramisu",
         "category": "Tiramisu",
